@@ -1,11 +1,3 @@
-# Theory Of Automata Project (Sudoku Game)
-# Section: A
-# Muhammad Sulaiman Sultan: 231453415
-# Ahmadd Saad: 231461463
-# Submitted to: Madam Rabranea Bqa
-
-
-
 import random
 import os
 
