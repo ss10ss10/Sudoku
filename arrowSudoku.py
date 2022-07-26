@@ -1,10 +1,3 @@
-# Design and Analysis of Algorithms
-# Section: A
-# Muhammad Sulaiman Sultan: 231453415
-# Submitted to: Madam Rabranea Bqa
-
-
-
 import random
 import os
 
