@@ -1,7 +1,7 @@
 import random
 import os
 import math
-
+# This class is used to create a grid of 9x9
 class board:
     
     def __init__(self,d):
