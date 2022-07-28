@@ -1,5 +1,6 @@
 import random
 import os
+import math
 
 class board:
     
